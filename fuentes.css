@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "titulos";
+    src: url("fuentes/centrale-sans-bold.otf");
+}
+
+@font-face {
+    font-family: "textos";
+    src: url("fuentes/centrale-sans-regular.otf");
+}
+
+.letra-font-titul {
+    font-family: "titulos" !important;
+}
+
+.letra-font-t {
+    font-family: "textos" !important;
+}

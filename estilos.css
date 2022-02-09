@@ -1,0 +1,12 @@
+.circulo{
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.headerd {
+    background: url(imagenes/imagen-hero.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+  }
+
+
